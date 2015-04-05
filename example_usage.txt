@@ -1,0 +1,60 @@
+Last login: Sat Apr  4 15:53:45 on ttys000
+Greg-Myerss-MacBook-Pro:~ gregmyers$ cd Desktop/Proj/
+Greg-Myerss-MacBook-Pro:Proj gregmyers$ g++ -o bin/MaxPopulation MaxPopulation.cpp 
+Greg-Myerss-MacBook-Pro:Proj gregmyers$ bin/MaxPopulation "BirthDeathTable.txt"
+The largest number of people alive was 24, and it occured in the year 1968
+Greg-Myerss-MacBook-Pro:Proj gregmyers$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
