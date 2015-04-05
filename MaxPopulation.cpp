@@ -2,7 +2,7 @@
  *  File: MaxPopulation.cpp
  *  Created: Greg Myers on 4/4/15
  *  Description: Given a table of names, birth, and death years between 1900 and 2000,
- *				 calculate the year with this most people alive
+ *		 calculate the year with this most people alive
  *
  */
 #include <stdio.h>
@@ -91,7 +91,6 @@ int main( int argc, char *argv[] )
 				result_year_f = ii;
 			}
 		}
-		
 	}
 		
 //----------------------------display results:------------------------------//
